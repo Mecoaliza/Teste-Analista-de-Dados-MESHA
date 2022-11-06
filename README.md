@@ -28,7 +28,7 @@ O link para baixar o arquivo está [disponível aqui](https://drive.google.com/d
 
 ### Fluxo de ETL
 
-![lógica da solução](imagens\fluxo de trabalho.png)
+<img src="imagens\fluxo de trabalho.png">
 
 #### Transformação Pentaho
 
