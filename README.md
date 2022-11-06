@@ -32,7 +32,7 @@ O link para baixar o arquivo está [disponível aqui](https://drive.google.com/d
 
 #### Transformação Pentaho
 
-![transformação pentaho](imagens\transformacao pentaho.jpeg)
+<img src="imagens\transformacao pentaho.jpeg">
 
 - Carrega csv com microdados
 - ajusta valores 
@@ -42,7 +42,7 @@ O link para baixar o arquivo está [disponível aqui](https://drive.google.com/d
 
 #### Modelagem Dimensional
 
-![modelagem de dados](imagens\modelagem de dados.png)
+<img src="imagens\modelagem de dados.png">
 
 A modelagem foi adotada para analisar alguns dados sociecônomicos e tipos de falta
 
